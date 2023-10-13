@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&family=Roboto:wght@300&display=swap');
+
+@font-face {
+    font-family: 'RioGrande';
+    src: url('RioGrande.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roadstore';
+    src: url('ROADSTORE.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kirsty';
+    src: url('KIRSTY.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #19191a;
+}
+h1 {
+    font-size: 38px;
+    font-family: 'RioGrande';
+    font-weight: normal;
+    border-bottom: 3px solid #957533;
+    color: #957533;
+}
+div {
+    width: 800px;
+    margin: 15px auto;
+    text-align: center;
+    color: #957533;
+}
+
+img {
+    Border: 1px solid #957533;
+    border-radius: 5px;
+    width: 800px;
+    margin: 15px auto;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: 'kirsty';
+    font-weight: normal;
+    border-top: 2px solid #957533; 
+    border-bottom: 2px solid #957533;
+    padding: 5px; 
+}
+
+p {
+    font-size: 16px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #f9f9f9;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #85c300;
+    padding:1px 7px;
+    border: 2px solid #85c300;
+    border-radius: 12px;
+    font-family:'Oswald';
+}
+
+h3 {
+    font-size: 26px;
+    font-family: 'kirsty';
+    font-weight: normal;
+    text-decoration: underline;
+}
+
+span {
+    margin: 15px auto;
+    font-size: 20px;
+    font-family: 'kirsty';
+}
+
+iframe {
+    border:3px solid #957533;
+    border-radius: 20px;
+}
+
+
+
